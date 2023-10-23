@@ -475,7 +475,7 @@ require('which-key').register({
   ['<leader>s'] = { name = '[S]earch', _ = 'which_key_ignore' },
   ['<leader>w'] = { name = '[W]orkspace', _ = 'which_key_ignore' },
   ['<leader>n'] = { name = '[N]ew', _ = 'which_key_ignore' },
-  ['<leader>x'] = { name = 'Trouble', _ = 'which_key_ignore' },
+  ['<leader>x'] = { name = '[T]rouble', _ = 'which_key_ignore' },
 })
 
 -- Enable the following language servers
